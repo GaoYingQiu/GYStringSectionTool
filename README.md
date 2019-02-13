@@ -1,6 +1,8 @@
 # GYStringSectionTool
 通讯录联系人按首字母分组 
 
+![图片](https://qyanblog.oss-cn-shenzhen.aliyuncs.com/IMG_2229.PNG)
+
 ### 用法 code demo ###
 ```
 //读取通讯录
